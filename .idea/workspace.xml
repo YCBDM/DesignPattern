@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="771000eb-7825-4274-bc6d-61b5c44c843b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dAKLWyIqql1x5t1rWFLegxkXKd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="E:/GoFun_WorkSpace/CI/dingdingPlugin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.SshProfileConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ycb.pattern.builder" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ycb.pattern.factory" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ycb.suanfa.sort" />
+      <recent name="SingletonPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ycb.pattern.builder" />
+      <recent name="com.ycb.pattern.bridgepattern" />
+      <recent name="com.ycb.pattern.adapter" />
+      <recent name="com.ycb.pattern.abstractfactory" />
+      <recent name="com.ycb.suanfa.mst" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java_workspace\Design Patterns\src\com\ycb\pattern\abstractfactory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java_workspace\Design Patterns\src\com\ycb\com.ycb.suanfa\mst" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UseMealBuider">
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycb.suanfa.linkedlist.LinkedList" />
+      <module name="Design Patterns&amp;DataStruct&amp;Suanfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycb.suanfa.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseAbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycb.pattern.abstractfactory.UseAbstractFactory" />
+      <module name="Design Patterns&amp;DataStruct&amp;Suanfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycb.pattern.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycb.pattern.bridgepattern.UseBridge" />
+      <module name="Design Patterns&amp;DataStruct&amp;Suanfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycb.pattern.bridgepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseFactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycb.pattern.factory.UseFactoryPattern" />
+      <module name="Design Patterns&amp;DataStruct&amp;Suanfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycb.pattern.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseMealBuider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycb.pattern.builder.UseMealBuider" />
+      <module name="Design Patterns&amp;DataStruct&amp;Suanfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycb.pattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UseMealBuider" />
+        <item itemvalue="Application.UseBridge" />
+        <item itemvalue="Application.UseAbstractFactory" />
+        <item itemvalue="Application.UseFactoryPattern" />
+        <item itemvalue="Application.LinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="771000eb-7825-4274-bc6d-61b5c44c843b" name="Default Changelist" comment="" />
+      <created>1591862401136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591862401136</updated>
+      <workItem from="1591862407989" duration="13773000" />
+      <workItem from="1593310898546" duration="2887000" />
+      <workItem from="1595579007345" duration="8087000" />
+      <workItem from="1597322261587" duration="611000" />
+      <workItem from="1597480920608" duration="805000" />
+      <workItem from="1597618944442" duration="1272000" />
+      <workItem from="1597825367046" duration="617000" />
+      <workItem from="1599185375090" duration="24041000" />
+      <workItem from="1599374532518" duration="24000" />
+      <workItem from="1599374599313" duration="303000" />
+      <workItem from="1599374941307" duration="11961000" />
+      <workItem from="1599433692939" duration="19992000" />
+      <workItem from="1599706517737" duration="8143000" />
+      <workItem from="1599779055845" duration="9188000" />
+      <workItem from="1600038347631" duration="1802000" />
+      <workItem from="1600160254492" duration="1755000" />
+      <workItem from="1600394342034" duration="4017000" />
+      <workItem from="1600425344828" duration="4436000" />
+      <workItem from="1600645011690" duration="8929000" />
+      <workItem from="1600765286957" duration="9843000" />
+      <workItem from="1601085724315" duration="2446000" />
+      <workItem from="1603271308793" duration="245000" />
+      <workItem from="1603674648850" duration="633000" />
+      <workItem from="1603960632508" duration="141000" />
+      <workItem from="1604050698458" duration="285000" />
+      <workItem from="1604388971108" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="37" key="#ECS_on_Alibaba_Cloud" timestamp="1601086920241">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="644" y="37" key="#ECS_on_Alibaba_Cloud/0.0.1291.768@0.0.1291.768" timestamp="1601086920241" />
+    <state x="339" y="39" key="#Feibonacci_(2)" timestamp="1599188990704">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="339" y="39" key="#Feibonacci_(2)/0.0.1291.768@0.0.1291.768" timestamp="1599188990704" />
+    <state x="237" y="35" width="816" height="733" key="#Intentions" timestamp="1600394757271">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="237" y="35" width="816" height="733" key="#Intentions/0.0.1291.768@0.0.1291.768" timestamp="1600394757271" />
+    <state x="450" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1600990638375">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="450" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1291.768@0.0.1291.768" timestamp="1600990638375" />
+    <state x="425" y="267" width="441" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600395193170">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="425" y="267" width="441" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1291.768@0.0.1291.768" timestamp="1600395193170" />
+    <state x="396" y="124" key="FileChooserDialogImpl" timestamp="1603960762967">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="396" y="124" key="FileChooserDialogImpl/0.0.1291.768@0.0.1291.768" timestamp="1603960762967" />
+    <state width="1247" height="2" key="GridCell.Tab.0.bottom" timestamp="1600501568638">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="2" key="GridCell.Tab.0.bottom/0.0.1291.768@0.0.1291.768" timestamp="1600501568638" />
+    <state width="1247" height="2" key="GridCell.Tab.0.center" timestamp="1600501568637">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="2" key="GridCell.Tab.0.center/0.0.1291.768@0.0.1291.768" timestamp="1600501568637" />
+    <state width="1247" height="2" key="GridCell.Tab.0.left" timestamp="1600501568637">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="2" key="GridCell.Tab.0.left/0.0.1291.768@0.0.1291.768" timestamp="1600501568637" />
+    <state width="1247" height="2" key="GridCell.Tab.0.right" timestamp="1600501568637">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="2" key="GridCell.Tab.0.right/0.0.1291.768@0.0.1291.768" timestamp="1600501568637" />
+    <state width="1247" height="233" key="GridCell.Tab.1.bottom" timestamp="1599226931613">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="233" key="GridCell.Tab.1.bottom/0.0.1291.768@0.0.1291.768" timestamp="1599226931613" />
+    <state width="1247" height="233" key="GridCell.Tab.1.center" timestamp="1599226931613">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="233" key="GridCell.Tab.1.center/0.0.1291.768@0.0.1291.768" timestamp="1599226931613" />
+    <state width="1247" height="233" key="GridCell.Tab.1.left" timestamp="1599226931613">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="233" key="GridCell.Tab.1.left/0.0.1291.768@0.0.1291.768" timestamp="1599226931613" />
+    <state width="1247" height="233" key="GridCell.Tab.1.right" timestamp="1599226931613">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state width="1247" height="233" key="GridCell.Tab.1.right/0.0.1291.768@0.0.1291.768" timestamp="1599226931613" />
+    <state x="39" y="3" key="SettingsEditor" timestamp="1601086941382">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="39" y="3" key="SettingsEditor/0.0.1291.768@0.0.1291.768" timestamp="1601086941382" />
+    <state x="326" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1604389563283">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="326" y="206" key="com.intellij.ide.util.TipDialog/0.0.1291.768@0.0.1291.768" timestamp="1604389563283" />
+    <state x="16" y="0" key="new project wizard" timestamp="1603271547645">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="16" y="0" key="new project wizard/0.0.1291.768@0.0.1291.768" timestamp="1603271547645" />
+    <state x="308" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600991677416">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="308" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1291.768@0.0.1291.768" timestamp="1600991677416" />
+    <state x="475" y="174" key="svn.repositoryBrowser" timestamp="1603960660641">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="475" y="174" key="svn.repositoryBrowser/0.0.1291.768@0.0.1291.768" timestamp="1603960660641" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/ycb/suanfa/sort/BubbleSort.java</url>
+          <line>24</line>
+          <properties class="com.ycb.suanfa.sort.BubbleSort" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/ycb/suanfa/linkedlist/Node.java</url>
+          <line>19</line>
+          <properties class="com.ycb.suanfa.linkedlist.Node" method="getData">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
